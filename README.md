@@ -61,12 +61,9 @@ Once the app runs, open [http://localhost:7860](http://localhost:7860) in your b
 ## 🤝 Contributing  
 Contributions are welcome! Fork the repo, create a new branch, and submit a pull request.  
 
-## 📚 License  
-This project is **open-source** and available under the MIT License.  
 
 ## 👨‍💻 Credits  
 👤 **K. S. Poojith**  
-📧 Email: [your-email@example.com]  
 🌐 GitHub: [github.com/kspoojith](https://github.com/kspoojith)  
 🔗 Hugging Face Space: [GENAI Chatbot](https://huggingface.co/spaces/poojith/GENAIchatbot)  
 
