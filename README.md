@@ -1,5 +1,5 @@
 # GENAI Chatbot 🤖  
-url:<a href="https://suryagenai.ccbp.tech/">suryagenai.ccbp.tech</a>
+URL : <a href="https://suryagenai.ccbp.tech/">suryagenai.ccbp.tech</a>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/kspoojith/genAI-chatbot)
 ![GitHub stars](https://img.shields.io/github/stars/kspoojith/genAI-chatbot?style=social)
